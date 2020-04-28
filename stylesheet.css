@@ -51,6 +51,19 @@ a {
   margin: 10px 0;
 }
 
+.signup {
+  background-color: #239b76;
+}
+
+.facebook {
+  background-color: #3b5998;
+  margin-right: 10px;
+}
+
+.twitter {
+  background-color: #55acee;
+}
+
 .btn {
   padding: 12px 24px;
   color: white;
@@ -105,13 +118,14 @@ header {
   background-color: rgba(255, 255, 255, 0.3);
 }
 
-
+/* Tambahkan CSS untuk menu-icon */
 .menu-icon {
   color: white;
   float: right;
   font-size: 25px;
   padding: 21px 0;
-  display: none;
+  /* Gantikan property display ke none */
+  display: run-in;
 }
 
 .lesson-wrapper {
